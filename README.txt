@@ -1,35 +1,26 @@
-Alpha by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Hello there,
+## Welcome to my Portfolio Website 
 
+### 📫 How to reach me: 
 
-A clean, super minimal responsive template geared towards startups, app devs, and other
-dedicated folks working tirelessly to launch their products. Includes a landing page,
-generic page, contact page, and a page with a whole mess of pre-styled elements (something
-new I'm trying out). Sass sources are also included.
+</t>[<img align="left" alt="prasantmahato.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+</t>[<img align="left" alt="Prasant Mahato | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+</t>[<img align="left" alt="Prasant Mahato | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</t>[<img align="left" alt="Prasant Mahato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br/>
+<br/>
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
+#### Credits:
+	
+	Images:
+		Canva Pro (canva.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
+		Flaticon (https://www.flaticon.com/)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+[website]: https://prasantmahato.github.io/
+[codechef]: https://www.codechef.com/users/prasant_33
+[linkedin]: https://www.linkedin.com/in/prasant-mahato/
+[twitter]: https://twitter.com/prasant__mahato
+[gmail]: mailto:prasantmahato33@gmail.com
