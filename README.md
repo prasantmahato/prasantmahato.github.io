@@ -1,5 +1,9 @@
-# Hello there,
-## Welcome to my Portfolio Website 
+### Hello there,
+### Welcome to my Portfolio Website 
+
+[![Website](https://img.shields.io/website?label=prasantmahato.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prasantmahato.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/prasant__mahato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prasant__mahato)
+[![Visits Badge](https://badges.pufler.dev/visits/prasantmahato/prasantmahato?style=for-the-badge)](https://github.com/prasantmahato/prasantmahato)
 
 ### 📫 How to reach me: 
 
@@ -11,13 +15,12 @@
 <br/>
 
 #### Credits:
-	
 	Images:
-		Canva Pro (canva.com)
+	Canva Pro (canva.com)
 
 	Icons:
-		Font Awesome (fontawesome.io)
-		Flaticon (https://www.flaticon.com/)
+	Font Awesome (fontawesome.io)
+	Flaticon (https://www.flaticon.com/)
 
 [website]: https://prasantmahato.github.io/
 [codechef]: https://www.codechef.com/users/prasant_33
