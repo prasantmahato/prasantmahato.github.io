@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/prasant__mahato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prasant__mahato)
 [![Visits Badge](https://badges.pufler.dev/visits/prasantmahato/prasantmahato?style=for-the-badge)](https://github.com/prasantmahato/prasantmahato)
 
-### 📫 How to reach me: 
+### 📫 Let's Be Social: 
 
 </t>[<img align="left" alt="prasantmahato.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 </t>[<img align="left" alt="Prasant Mahato | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -17,6 +17,7 @@
 #### Credits:
 	Images:
 	Canva Pro (canva.com)
+	Google Images (images.google.com)
 
 	Icons:
 	Font Awesome (fontawesome.io)
