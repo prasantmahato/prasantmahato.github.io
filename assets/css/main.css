@@ -1,5 +1,5 @@
-@import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url("fontawesome-all.min.css");
 
 /*
 	Alpha by HTML5 UP
@@ -3170,7 +3170,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.jpg"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.webp"), url("../../images/banner.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
