@@ -249,7 +249,10 @@
 	.align-right {
 		text-align: right;
 	}
-
+	.card-group{
+		margin: 0 10%;
+		padding: 0 5% 2%;
+	}
 /* Row */
 
 	.row {
