@@ -1,0 +1,8 @@
+{
+  "name": "Ridelink",
+  "short_name": "Ridelink",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#12151A",
+  "theme_color": "#12151A"
+}
